@@ -16,6 +16,7 @@ export const SpecialThanks = () => {
               </div>
               <div className="text-green-400">
                 <p className="font-bold text-sm md:text-base">University for Modern Sciences</p>
+                <p className="text-xs md:text-sm opacity-80 text-white">Tando Muhammad Khan, Sindh</p>
                 <p className="text-xs md:text-sm opacity-80">Competition Organizer & Theme</p>
               </div>
             </div>
@@ -28,6 +29,7 @@ export const SpecialThanks = () => {
               </div>
               <div className="text-green-400">
                 <p className="font-bold text-sm md:text-base">Lyceumerce Private Ltd</p>
+                <p className="text-xs md:text-sm opacity-80 text-white">Tando Muhammad Khan, Sindh</p>
                 <p className="text-xs md:text-sm opacity-80">Training & Development Partner</p>
               </div>
             </div>
